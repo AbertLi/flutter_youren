@@ -1,4 +1,4 @@
-name: flutter_app1
+name: media
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -29,6 +29,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  animations: ^2.0.2
+  intl: ^0.17.0 #多语言框架
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -56,6 +59,7 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  generate: true
 
   # To add assets to your application, add an assets section, like this:
   # assets:
