@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProject\\FlutterTest\\flutter_youren\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "E:\\AndroidStudioProject\\FlutterTest\\flutter_youren\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\FlutterTest\\flutter_youren\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_media_logo.jpeg.flat",
+        "source": "E:\\AndroidStudioProject\\FlutterTest\\flutter_youren\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\media_logo.jpeg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\FlutterTest\\flutter_youren\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "E:\\AndroidStudioProject\\FlutterTest\\flutter_youren\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\FlutterTest\\flutter_youren\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProject\\FlutterTest\\flutter_youren\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
